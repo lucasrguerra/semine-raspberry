@@ -1,0 +1,17 @@
+{
+  "name": "raspiberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serialPortReader.js",
+  "dependencies": {
+    "mongoose": "^6.2.8",
+    "serialport": "^10.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node serialPortReader.js"
+  },
+  "keywords": [],
+  "author": "lucasrguerra",
+  "license": "Apache License 2"
+}
